@@ -56,3 +56,50 @@ Unordered list
   <input>
   <button type="submit">submit</button>
   </form>
+  
+  The radio buttons
+  <form>
+   <label for="indoor">
+    <input id="indoor" type="radio" name="indoor-outdoor">indoor
+     </label>
+
+     <label for="outdoor">
+     <input id="outdoor" type="radio" name="indoor-outdoor">outdoor
+       </label>
+  </form>
+  
+  Checkboxes🐱
+   <form>
+   <label for="cute">
+    <input id="cute" type="checkbox" name="feauture">cute
+     </label>
+
+     <label for="demon">
+     <input id="demon" type="checkbox" name="feauture">demon
+       </label>
+  </form>
+  
+  Value
+  it helps identify the option chosen
+   <form>
+   <label for="indoor">
+    <input id="indoor" type="radio" value="indoor" name="indoor-outdoor">indoor
+     </label>
+
+     <label for="outdoor">
+     <input id="outdoor" value="outdoor" type="radio" name="indoor-outdoor">outdoor
+       </label>
+  </form>
+ 
+  Checked by default😤
+  <form>
+  <input type="radio" name="test-name" checked>
+  </form>
+  
+  DIVA😎
+  The div element, also known as a division element, is a general purpose container for other elements.
+  
+  DOCTYPE
+  <!DOCTYPE HTML> - HTML5
+  <!DOCTYPE> - HTML
+  
